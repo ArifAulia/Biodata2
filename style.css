@@ -1,0 +1,41 @@
+.body {
+    text-align: center;
+    align-items: center;
+}
+
+.navbar-container {
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+
+}
+
+.img-head {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.top {
+    block-size: 1px;
+    background-color: black;
+}
+
+table {
+    width: 450px;
+    height: 100px;
+    text-align: center;
+}
+
+.bottom {
+   margin-top: 40px; 
+   block-size: 1px;
+   background-color: black;
+}
+
+.table-under {
+   width: auto;
+   height: auto;
+   
+}
+
